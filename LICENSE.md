@@ -1,4 +1,4 @@
-# 
+# Enhance your Polymarket trading with Polymarket smart Algorithm: trailing-stops & event-driven-trading, the #1 algorithm. Includes trailing-stops and event-driven-trading for a
 
 
 
